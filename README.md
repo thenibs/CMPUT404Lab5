@@ -1,1 +1,1 @@
-[Link to website]{https://thenibs.github.io/}
+[Link to website](https://thenibs.github.io/)
